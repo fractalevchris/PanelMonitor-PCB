@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TP-INT Pin=R26-2
+Removed Pin From Net: NetName=TP-RESET Pin=R41-2
+Added Pin To Net: NetName=TP-RESET Pin=R26-2
+Added Pin To Net: NetName=TP-INT Pin=R41-2

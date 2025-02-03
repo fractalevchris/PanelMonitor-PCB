@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetP3_18 New Net Name=SDA
+Change Net Name : Old Net Name=NetP3_19 New Net Name=SCL
+Change Class Name : Old Net Name=Board1 New Net Name=AnalogIn
+Change Class Name : Old Net Name=RTC New Net Name=RTC-Power-Eth
+Change Class Name : Old Net Name=Sheet2 New Net Name=Micro

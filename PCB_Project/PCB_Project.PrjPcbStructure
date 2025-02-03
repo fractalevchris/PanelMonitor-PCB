@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=AnalogIn.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AnalogIn.SchDoc|FileName=Micro.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AnalogIn.SchDoc|FileName=RTC-Power-Eth.SchDoc|SheetNumber=3

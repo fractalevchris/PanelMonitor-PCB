@@ -1,0 +1,39 @@
+Change Net Name : Old Net Name=Net*_4 New Net Name=NetC3_2
+Change Net Name : Old Net Name=Net*_4 New Net Name=NetC13_1
+Change Net Name : Old Net Name=Net*_6 New Net Name=NetC19_1
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=C17-1
+Added Pin To Net: NetName=NetC16_1 Pin=L3-1
+Added Pin To Net: NetName=NetC16_1 Pin=P3-2
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=Q3-1
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_9 Pin=R36-1
+Added Net: Name=NetP3_9
+Added Pin To Net: NetName=NetP3_11 Pin=R35-1
+Added Net: Name=NetP3_11
+Added Pin To Net: NetName=NetP3_18 Pin=R27-1
+Added Pin To Net: NetName=NetP3_18 Pin=R34-1
+Added Net: Name=NetP3_18
+Added Pin To Net: NetName=NetP3_19 Pin=R28-1
+Added Pin To Net: NetName=NetP3_19 Pin=R33-1
+Added Net: Name=NetP3_19
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Net: Name=NetR30_1
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Net: Name=NetR31_1
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR47_2 Pin=R48-1
+Added Net: Name=NetR47_2
+Added Member To Class: ClassName=Sheet2 Member=Component P3 CTM480272T53

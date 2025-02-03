@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=UART0_RX Pin=C5-2
+Added Pin To Net: NetName=UART0_TX Pin=C6-2
+Added Pin To Net: NetName=RESET (GPIO0) Pin=C7-2

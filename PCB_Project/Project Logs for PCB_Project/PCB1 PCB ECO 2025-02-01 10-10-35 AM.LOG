@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TP-RESET Pin=R40-2
+Removed Pin From Net: NetName=S-RESX Pin=R41-2
+Added Pin To Net: NetName=S-RESX Pin=R40-2
+Added Pin To Net: NetName=TP-RESET Pin=R41-2

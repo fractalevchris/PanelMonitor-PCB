@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=Net*_1 Pin=D1-1
+Removed Member From Class: ClassName=Sheet2 Member=C3
+Removed Member From Class: ClassName=RTC Member=D4
+Removed Member From Class: ClassName=Sheet2 Member=R1
+Added Pin To Net: NetName=Net*_1 Pin=Q3-1
+Change Net Name : Old Net Name=Net*1_2 New Net Name=Net*_4
+Change Net Name : Old Net Name=Net*1_3 New Net Name=NetP6_2
+Change Net Name : Old Net Name=Net*1_5 New Net Name=NetP8_2
+Change Net Name : Old Net Name=Net*1_6 New Net Name=NetC4_2
+Change Net Name : Old Net Name=Net*_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetP2_2
+Change Net Name : Old Net Name=Net*_5 New Net Name=NetP4_2
+Change Net Name : Old Net Name=Net*_6 New Net Name=NetC2_2
+Added Pin To Net: NetName=Net*_2 Pin=R28-1
+Added Pin To Net: NetName=Net*_2 Pin=R33-1
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_5 Pin=R25-2
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_6 Pin=R29-1
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=Sheet2 Member=Component C16 Cap
+Added Member To Class: ClassName=RTC Member=Component D10 LED1
+Added Member To Class: ClassName=Board1 Member=Component P4 Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component R14 Res3

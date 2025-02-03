@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetP3_1 Pin=P3-1
+Removed Pin From Net: NetName=NetC16_1 Pin=P3-2
+Added Component: Designator=U7(W5500Module)
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetC16_1 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=VCC Pin=U7-2
+Added Pin To Net: NetName=VCC Pin=U7-3
+Added Pin To Net: NetName=NetR25_2 Pin=U7-5
+Added Pin To Net: NetName=NetR29_1 Pin=U7-6
+Added Pin To Net: NetName=NetR24_2 Pin=U7-7
+Added Pin To Net: NetName=NetR38_2 Pin=U7-8
+Added Pin To Net: NetName=NetR31_1 Pin=U7-9
+Added Pin To Net: NetName=NetR30_1 Pin=U7-10
+Added Pin To Net: NetName=GND Pin=U7-11
+Added Pin To Net: NetName=GND Pin=U7-12
+Added Member To Class: ClassName=RTC Member=Component U7 ACEIRMC W5500 Module

@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetR24_2 New Net Name=Eth_INT
+Change Net Name : Old Net Name=NetR25_2 New Net Name=Eth_Reset
+Change Net Name : Old Net Name=NetR29_1 New Net Name=Eth_MISO
+Change Net Name : Old Net Name=NetR30_1 New Net Name=Eth_MOSI
+Change Net Name : Old Net Name=NetR31_1 New Net Name=Eth_SCLK
+Change Net Name : Old Net Name=NetR38_2 New Net Name=Eth_CS

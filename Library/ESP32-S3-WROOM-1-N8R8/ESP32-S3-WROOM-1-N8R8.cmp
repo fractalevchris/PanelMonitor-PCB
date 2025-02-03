@@ -1,0 +1,73 @@
+Component Name : ESP32-S3-WROOM-1-N8R8
+
+Part Count : 2
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?
+     Pins - (Normal) : 61
+          EN             3              Input
+          RXD0           36             I/O
+          TXD0           37             I/O
+          IO0            27             I/O
+          IO1            39             I/O
+          IO2            38             I/O
+          IO3            15             I/O
+          IO4            4              I/O
+          IO5            5              I/O
+          IO6            6              I/O
+          IO7            7              I/O
+          IO8            12             I/O
+          IO9            17             I/O
+          IO10           18             I/O
+          IO11           19             I/O
+          IO12           20             I/O
+          IO13           21             I/O
+          IO14           22             I/O
+          IO15           8              I/O
+          IO16           9              I/O
+          3V3            2              Power
+          IO17           10             I/O
+          IO18           11             I/O
+          IO19           13             I/O
+          IO20           14             I/O
+          IO21           23             I/O
+          IO35           28             I/O
+          IO36           29             I/O
+          IO37           30             I/O
+          IO38           31             I/O
+          IO39           32             I/O
+          IO40           33             I/O
+          IO41           34             I/O
+          IO42           35             I/O
+          IO45           26             I/O
+          IO46           16             I/O
+          IO47           24             I/O
+          IO48           25             I/O
+          GND            1              Power
+          GND            40             Power
+          GND            41_1           Power
+          GND            41_2           Power
+          GND            41_3           Power
+          GND            41_4           Power
+          GND            41_5           Power
+          GND            41_6           Power
+          GND            41_7           Power
+          GND            41_8           Power
+          GND            41_9           Power
+          GND            41_11          Passive
+          GND            41_12          Passive
+          GND            41_13          Passive
+          GND            41_14          Passive
+          GND            41_15          Passive
+          GND            41_16          Passive
+          GND            41_17          Passive
+          GND            41_18          Passive
+          GND            41_19          Passive
+          GND            41_20          Passive
+          GND            41_21          Passive
+          GND            41_10          Passive
+          Hidden Pins : 
+

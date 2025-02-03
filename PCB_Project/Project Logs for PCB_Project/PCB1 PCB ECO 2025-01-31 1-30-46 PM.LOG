@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=Net*_7 Pin=P11-1
+Removed Pin From Net: NetName=RTS Pin=Q1-3
+Removed Pin From Net: NetName=RTS Pin=R16-2
+Removed Pin From Net: NetName=Net*_7 Pin=R44-1
+Change Component Footprint: Designator=Q3 Old Footprint=E3 New Footprint=SOT95P245X110-3N
+Change Component Footprint: Designator=D10 Old Footprint=LED-1 New Footprint=DIOC2012X04M
+Change Component Footprint: Designator=Q1 Old Footprint=TO-226-AA New Footprint=SOT95P245X110-3N
+Change Component Footprint: Designator=Q2 Old Footprint=TO-226-AA New Footprint=SOT95P245X110-3N
+Added Component: Designator=D6(DIOC2012X04M)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOD-323-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SP4021-01FTG"; VariantName = "[No Variations]"
+Added Component: Designator=D7(DIOC2012X04M)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOD-323-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SP4021-01FTG"; VariantName = "[No Variations]"
+Added Component: Designator=D8(DIOC2012X04M)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOD-323-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SP4021-01FTG"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC127P600X155-8N)
+Added Pin To Net: NetName=NetC9_1 Pin=C8-2
+Added Pin To Net: NetName=UART0_RX Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=UART0_TX Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=RESET (GPIO0) Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=DTR Pin=Q1-3
+Added Pin To Net: NetName=DTR Pin=R16-2
+Added Pin To Net: NetName=NetC9_1 Pin=R17-1
+Added Pin To Net: NetName=Net*_7 Pin=R24-2
+Added Pin To Net: NetName=RS485_RO Pin=U4-1
+Added Pin To Net: NetName=RS485_!RE Pin=U4-2
+Added Pin To Net: NetName=RS485_DE Pin=U4-3
+Added Pin To Net: NetName=RS485_DI Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=VCC Pin=U4-8
+Change Net Name : Old Net Name=NetC9_1 New Net Name=ESP32_EN
+Added Pin To Net: NetName=NetP10_2 Pin=P10-2
+Added Pin To Net: NetName=NetP10_2 Pin=P11-2
+Added Pin To Net: NetName=NetP10_2 Pin=U4-6
+Added Net: Name=NetP10_2
+Added Pin To Net: NetName=NetP11_1 Pin=P11-1
+Added Pin To Net: NetName=NetP11_1 Pin=R44-1
+Added Pin To Net: NetName=NetP11_1 Pin=U4-7
+Added Net: Name=NetP11_1
+Added Member To Class: ClassName=Sheet2 Member=Component D6 PJGBLC03C
+Added Member To Class: ClassName=Sheet2 Member=Component D7 PJGBLC03C
+Added Member To Class: ClassName=Sheet2 Member=Component D8 PJGBLC03C
+Added Member To Class: ClassName=Sheet2 Member=Component U4 MAX485

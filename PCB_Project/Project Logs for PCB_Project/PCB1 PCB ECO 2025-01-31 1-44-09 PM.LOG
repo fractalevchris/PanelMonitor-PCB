@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetP3_1 Pin=P3-1
+Removed Pin From Net: NetName=NetC16_1 Pin=P3-2
+Added Component: Designator=U2(SOIC127P600X155-8N)
+Added Component: Designator=U3(SOIC127P600X155-8N)
+Added Component: Designator=U6(SOP127P740X320-14N)
+Added Component: Designator=U8(SOT230P700X180-4N)
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetC16_1 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetD3_1 Pin=U2-1
+Added Pin To Net: NetName=NetC3_2 Pin=U2-2
+Added Pin To Net: NetName=NetP6_2 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetP8_2 Pin=U2-5
+Added Pin To Net: NetName=NetC4_2 Pin=U2-6
+Added Pin To Net: NetName=NetD4_1 Pin=U2-7
+Added Pin To Net: NetName=5V Pin=U2-8
+Added Pin To Net: NetName=NetD1_1 Pin=U3-1
+Added Pin To Net: NetName=NetC1_2 Pin=U3-2
+Added Pin To Net: NetName=NetP2_2 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetP4_2 Pin=U3-5
+Added Pin To Net: NetName=NetC2_2 Pin=U3-6
+Added Pin To Net: NetName=NetD2_1 Pin=U3-7
+Added Pin To Net: NetName=5V Pin=U3-8
+Added Pin To Net: NetName=NetP3_19 Pin=U6-2
+Added Pin To Net: NetName=NetC19_1 Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-11
+Added Pin To Net: NetName=NetP3_18 Pin=U6-13
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=VCC Pin=U8-2
+Added Pin To Net: NetName=5V Pin=U8-3
+Added Member To Class: ClassName=Board1 Member=Component U2 LM358
+Added Member To Class: ClassName=Board1 Member=Component U3 LM358
+Added Member To Class: ClassName=RTC Member=Component U6 RX-8025T
+Added Member To Class: ClassName=RTC Member=Component U8 TLV76133 - 3.3V

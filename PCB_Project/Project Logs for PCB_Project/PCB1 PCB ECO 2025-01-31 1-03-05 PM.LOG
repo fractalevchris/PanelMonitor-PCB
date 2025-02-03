@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Net*_6 Pin=R29-1
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=RESC2012X04M
+Added Pin To Net: NetName=Net*_6 Pin=C19-1
+Added Pin To Net: NetName=Net*_6 Pin=C20-1
+Added Pin To Net: NetName=Net*_6 Pin=D9-2
